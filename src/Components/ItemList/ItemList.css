@@ -1,0 +1,9 @@
+.recuadroCards{
+    display: inline-block;
+    margin-left: 20px;
+    border: 1px solid rgb(30, 77, 77);
+    
+}
+/* .recuadroCards img{
+    flex-direction: row;
+} */
